@@ -10,6 +10,7 @@
  - url: https://nikkihaley.com/
    output: screenshots/nikkihaley.png
    height: 1080
+   wait: 3000
    
    
    
