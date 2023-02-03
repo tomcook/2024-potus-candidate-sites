@@ -1,14 +1,14 @@
  - url: https://www.joebiden.com/
-   output: joebiden.png
+   output: screenshots/joebiden.png
    height: 1080
  - url: https://www.donaldjtrump.com/
-   output: trump.png
+   output: screenshots/trump.png
    height: 1080
  - url: https://rondesantis.com/
-   output: rondesantis.png
+   output: screenshots/rondesantis.png
    height: 1080
  - url: https://nikkihaley.com/
-   output: nikkihaley.png
+   output: screenshots/nikkihaley.png
    height: 1080
    
    
