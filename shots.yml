@@ -1,23 +1,23 @@
  - url: https://www.joebiden.com/
    output: screenshots/joebiden.png
-   height: 1080
+   height: 3000
    javascript: |
     document.querySelectorAll(
       '.modal__body-wrap'
     ).forEach(el => el.style.display = 'none')
  - url: https://www.donaldjtrump.com/
    output: screenshots/trump.png
-   height: 1080
+   height: 3000
    javascript: |
     document.querySelectorAll(
       '.popup'
     ).forEach(el => el.style.display = 'none')
  - url: https://rondesantis.com/
    output: screenshots/rondesantis.png
-   height: 1080
+   height: 3000
  - url: https://nikkihaley.com/
    output: screenshots/nikkihaley.png
-   height: 1080
+   height: 3000
    wait: 3000
    
    
