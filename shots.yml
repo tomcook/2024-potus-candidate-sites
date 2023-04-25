@@ -1,27 +1,43 @@
  - url: https://www.joebiden.com/
    output: screenshots/joebiden.png
-   height: 3000
+   height: 6000
    javascript: |
     document.querySelectorAll(
       '.modal__body-wrap'
     ).forEach(el => el.style.display = 'none')
+ - url: https://marianne2024.com/
+   output: screenshots/marianne.png
+   height: 6000
+   wait: 3000
+ - url: https://www.kennedy24.com/
+   output: screenshots/rfkjr.png
+   height: 6000
+   wait: 3000
  - url: https://www.donaldjtrump.com/
    output: screenshots/trump.png
-   height: 3000
+   height: 6000
    javascript: |
     document.querySelectorAll(
       '.popup'
     ).forEach(el => el.style.display = 'none')
  - url: https://rondesantis.com/
    output: screenshots/rondesantis.png
-   height: 3000
- - url: https://nikkihaley.com/
+   height: 6000
+ - url: https://nikkihaley.com/home/
    output: screenshots/nikkihaley.png
-   height: 3000
+   height: 6000
    wait: 3000
  - url: https://www.elderforpresident.com/
    output: screenshots/larryelder.png
-   height: 3000
+   height: 6000
+   wait: 3000
+ - url: https://www.vivek2024.com/
+   output: screenshots/vivek.png
+   height: 6000
+   wait: 3000
+ - url: https://www.asa2024.com/
+   output: screenshots/asa.png
+   height: 6000
    wait: 3000
    
    
