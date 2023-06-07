@@ -39,6 +39,28 @@
    output: screenshots/asa.png
    height: 6000
    wait: 3000
+ - url: https://chrischristie.com/
+   output: screenshots/chrischristie.png
+   height: 6000
+   wait: 3000
+ - url: https://mikepence2024.com/
+   output: screenshots/mikepence.png
+   height: 6000
+   wait: 3000
+ - url: https://votetimscott.com/
+   output: screenshots/timscott.png
+   height: 6000
+   wait: 3000
+ - url: https://coreystapleton.com/
+   output: screenshots/coreystapleton.png
+   height: 6000
+   wait: 3000
+   
+   
+
+
+
+
    
    
    
