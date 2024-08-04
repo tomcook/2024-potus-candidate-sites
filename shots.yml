@@ -5,6 +5,13 @@
     document.querySelectorAll(
       '.modal__body-wrap'
     ).forEach(el => el.style.display = 'none')
+ - url: https://www.kamalaharris.com/
+   output: screenshots/kamala.png
+   height: 6000
+   javascript: |
+    document.querySelectorAll(
+      '.modal__body-wrap'
+    ).forEach(el => el.style.display = 'none')
  - url: https://marianne2024.com/
    output: screenshots/marianne.png
    height: 6000
