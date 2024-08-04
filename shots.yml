@@ -55,10 +55,6 @@
    output: screenshots/coreystapleton.png
    height: 6000
    wait: 3000
- - url: https://www.dean24.com/
-   output: screenshots/dean.png
-   height: 6000
-   wait: 3000
  - url: https://binkley2024.com/
    output: screenshots/binkley.png
    height: 6000
